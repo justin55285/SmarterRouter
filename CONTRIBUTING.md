@@ -34,3 +34,4 @@ Notes and usage details for SmarterRouter.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- link the usage section
